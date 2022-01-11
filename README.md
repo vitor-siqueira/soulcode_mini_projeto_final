@@ -24,4 +24,5 @@ Instruções para o desafio
 * Utilizar no minimo 10 consultas diferentes utilizando o SparkSQL, comentando o porquê de ter escolhido essas funções e explicando o que cada consulta faz.
 
 **Ferramentas**
+
 Colab ou Ides | Google Cloud
