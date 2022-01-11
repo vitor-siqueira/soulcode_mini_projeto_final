@@ -3,7 +3,7 @@
 Instruções para o desafio
 
 **Nivel Infra**
-* O Dataset deve ser salvo em ambiente cloud(Drive ou Cloud Storage)
+* O Dataset deve ser salvo em ambiente cloud (Drive ou Cloud Storage)
 * Os DataFrames devem ser obrigatoriamente salvos em uma bucket do CloudStorage
 
 **Nivel Pandas**
