@@ -16,7 +16,8 @@ Instruções para o desafio
 **Nivel PySpark (Funções básicas vistas em aula)**
 * Deverá ser montada a estrutura do DataFrame utilizando o StructType*
 * Realizar a mudança de nome de pelo menos 2 colunas
-* Deverá criar pelo menos duas novas colunas contendo alguma informação relevante sobre as outras colunas já existentes(Use a sua capacidade analítica) Deverá utilizar filtros, ordenação e agrupamento, trazendo dados relevantes para o negócio em questão. (Use a sua capacidade analítica)
+* Deverá criar pelo menos duas novas colunas contendo alguma informação relevante sobre as outras colunas já existentes(Use a sua capacidade analítica)
+* Deverá utilizar filtros, ordenação e agrupamento, trazendo dados relevantes para o negócio em questão. (Use a sua capacidade analítica)
 * Utilizar pelo menos duas Window Functions
  
 **Nivel SparkSQL**
